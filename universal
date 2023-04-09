@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("You have been banned by the anticheat, If you believe this was false, apeal it at discord.gg/biggames")
